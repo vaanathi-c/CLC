@@ -10,7 +10,7 @@ Lana: Data Cleaning and Integration –  Standardize datasets, resolve identifie
 Vaanathi: Analysis and Documentation –  Calculate road coverage metrics, create visualizations, and compile the final project documentation.
 
 
-**Research Questions: **
+**Research Questions:**
 
 Primary Research Question: How does primary road density differ across ZIP Code Tabulation Areas, and does that pattern change depending on whether a ZCTA lies within one county or crosses county lines?
 
