@@ -1,7 +1,3 @@
-Overview: Our team will be looking through a dataset and be discovering the... ""
-Team: Each team member will be analyzing both datasets so that we can all share our opinions on the datasets. Bharathi will be leading the group project, with Lana and Vaanathi being responsible for analyzing the dataset, and lastly Joanne looking for  
-Research or Business Question(s): 
-Datasets: 
-Timeline: 
-Constraints: 
-  Gaps: 
+**Overview**: Our team will be looking through the three datasets (zip code, roads, and county) underneath. The goal of this project is to examine how primary road density varies across ZIP Code Tabulation Areas (ZCTAs) in the United States, and whether that pattern differs for ZCTAs that fall entirely within one county versus those that cross county lines. Due to the fact that ZIP-level and county-level data are often joined in practice, we want to understand how these two boundary systems relate and whether the mismatch between them is associated with differences in highway access. The central question is: How does primary road density differ across ZIP Code Tabulation Areas, and does that pattern change depending on whether a ZCTA lies within one county or crosses county lines?
+Our project will focus on data acquisition, quality assessment, cleaning, integration, and analysis. First, we will download three TIGER/Line shapefiles containing ZCTA boundaries, primary road networks, and county boundaries. We will assess data quality by identifying missing geographic information, duplicate records, inconsistent coordinate reference systems, and potential boundary discrepancies. Based on these findings, we will clean and standardize the datasets to ensure compatibility.
+Next, we will integrate the datasets by geographic intersections, and then we will focus on our main research question for the remainder of our analysis.
