@@ -29,7 +29,7 @@ TIGER/Line Shapefile, 2023, Nation, U.S., Primary Roads
 TIGER/Line Shapefile, Current, Nation, U.S., County and Equivalent Entities 
 
 
-Timeline: The detailed plan is the following (the “week” are the due dates, the tasks are presented along with the people responsible for completing the tasks.
+**Timeline:** The detailed plan is the following (the “week” are the due dates, the tasks are presented along with the people responsible for completing the tasks.
 Week 8: Confirm the research question, create a project folder and documentation log (All members)
 Week 9: Download the datasets, review attributes, coordinate systems, and file sizes, and note the different data years (Vaanathi)
 Week 10: Fix invalid geometries, decide how to filter U.S. territories (e.g., Alaska) (Lana)
