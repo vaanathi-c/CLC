@@ -2,7 +2,7 @@
 Our project will focus on data acquisition, quality assessment, cleaning, integration, and analysis. First, we will download three TIGER/Line shapefiles containing ZCTA boundaries, primary road networks, and county boundaries. We will assess data quality by identifying missing geographic information, duplicate records, inconsistent coordinate reference systems, and potential boundary discrepancies. Based on these findings, we will clean and standardize the datasets to ensure compatibility.
 Next, we will integrate the datasets by geographic intersections, and then we will focus on our main research question for the remainder of our analysis.
 
-Team & Roles:
+**Team & Roles:**
 Each team member will be analyzing all three datasets so that we can all share our opinions on the datasets. More specifically, each member of the team will be doing the following:
 Bharathi: Data Acquisition – Download datasets, review metadata, and document data sources and formats.
 Joanne: Data Quality Assessment – Identify missing values, duplicates, inconsistent geographic information, and other quality issues.
@@ -10,7 +10,7 @@ Lana: Data Cleaning and Integration –  Standardize datasets, resolve identifie
 Vaanathi: Analysis and Documentation –  Calculate road coverage metrics, create visualizations, and compile the final project documentation.
 
 
-Research Questions: 
+**Research Questions: **
 
 Primary Research Question: How does primary road density differ across ZIP Code Tabulation Areas, and does that pattern change depending on whether a ZCTA lies within one county or crosses county lines?
 
