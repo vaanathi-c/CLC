@@ -17,7 +17,7 @@ Primary Research Question: How does primary road density differ across ZIP Code 
 Secondary Research Question: Which counties and ZCTAs have the highest and lowest primary road density, measured as road length per unit of geographic area?
 
 
-**Datasets: **
+**Datasets:**
 We chose the following three datasets for our research project: (1) ZIP Code Tabulation Areas (ZCTAs), (2) Primary Roads, (3) Counties. 
 
 https://catalog.data.gov/?sort=popularity&q=&sort=popularity&spatial_filter=&org_slug=census (website link)
