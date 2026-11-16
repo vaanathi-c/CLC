@@ -13,9 +13,9 @@ These are our new datasets:
 - TIGER/Line Shapefile, 2024, Nation, U.S., Primary Roads
 - TIGER/Line Shapefile, 2024, Nation, U.S., County And Equivalent Entities
 
-Link to Update (include references, links to specific artifacts: datasets, scripts, workflows, workflow diagram)
+We worked in a joint Google Colaboratory notebook throughout the project so that we could collaborate, share code, and help each other out. It has been committed as a copy to our repo in a notebook called Road Density Analysis.ipynb.
 
-This was our previous timeline: 
+This was our previous timeline as established in our project plan: 
 
 Week 8: Confirm the research question, create a project folder and documentation log (All members)
 Week 9: Download the datasets, review attributes, coordinate systems, and file sizes, and note the different data years (Vaanathi)
@@ -28,9 +28,10 @@ Week 15: Proofread, make sure results are reproducible, and submit final report 
 
 We have completed all of our planned tasks from Week 8 - Week 12, so we are on track to finish our project as planned. Our timeline does not require any updates. We also overcame some of the constraints listed in our project plan by standardizing the year across all of our chosen datasets to 2024. 
 
-Contribution by each member: 
+Contribution by member: 
 
-Vaanathi:
+Vaanathi: I downloaded all three datasets to inspect them, then I looked at all the attributes in each dataset (ZCTA5CE20, GEOID20, LINEARID, FULLNAME, STATEFP, COUNTYFP, etc.). After that, I checked the coordinate reference system for each file and made sure they matched, since we need consistent projections before doing any spatial work. I also recorded the file sizes and noted the data years, which became important when our original datasets were removed from data.gov. Once that happened, I helped confirm that the 2024 TIGER/Line versions had the same attributes and structure as the originals, so we could standardize all three datasets to one year and keep going. I also drafted the initial structure of the project plan, and the rest of the team made changes as they saw fit.
+
 Lana: 
 Bharathi: 
 Joanne: 
