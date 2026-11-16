@@ -36,5 +36,4 @@ Lana: I handled data cleaning for our three datasets. I ran validity checks on t
 
 Bharathi: I worked on the analysis phase. Using the processed data, I calculated summary statistics for primary road density (road km per km² of land) across ZCTAs, including the means, medians, and spread, and identified which counties and ZCTAs had the highest and lowest density. I then fit a simple regression model to test whether density differs between single-county and multi-county ZCTAs, and broke the results down by state and region to see whether the pattern holds across different parts of the country. 
 
-Joanne: 
-
+Joanne: I performed the spatial intersection between the ZCTA boundaries and the county polygons. For each ZCTA, I determined how many counties it overlaps and used that to classify it as single-county or multi-county. This classification is the core variable for our primary research question, so I checked the results carefully, including handling tiny boundary overlaps that could cause a ZCTA to be mislabeled as multi-county. I finished this step after we replaced our datasets, so I redid the intersection with the 2024 files and saved the output for the rest of the team to use. 
