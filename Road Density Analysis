@@ -1,8 +1,0 @@
-Week 9: Data Preparation
-!wget -q https://www2.census.gov/geo/tiger/TIGER2024/ZCTA520/tl_2024_us_zcta520.zip
-!unzip -q -o tl_2024_us_zcta520.zip -d zcta
-
-import geopandas as gpd
-
-zcta = gpd.read_file("zcta/tl_2024_us_zcta520.shp")
-zcta.head()
