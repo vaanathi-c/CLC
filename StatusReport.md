@@ -34,6 +34,7 @@ Vaanathi: I downloaded all three datasets to inspect them, then I looked at all 
 
 Lana: I handled data cleaning for our three datasets. I ran validity checks on the geometries in each file and repaired the invalid ones so they wouldn’t cause errors in later spatial operations. I also worked out how to handle U.S. territories and non-contiguous areas like Alaska, since they can distort density calculations and make maps hard to read. I documented the filtering decisions and the reasoning behind them so the team can reproduce the same steps and explain our choices in the final report. 
 
-Bharathi: 
+Bharathi: I worked on the analysis phase. Using the processed data, I calculated summary statistics for primary road density (road km per km² of land) across ZCTAs, including the means, medians, and spread, and identified which counties and ZCTAs had the highest and lowest density. I then fit a simple regression model to test whether density differs between single-county and multi-county ZCTAs, and broke the results down by state and region to see whether the pattern holds across different parts of the country. 
+
 Joanne: 
 
