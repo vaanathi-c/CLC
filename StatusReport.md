@@ -4,3 +4,4 @@ Updated Timeline (include status of each task and when they will be completed)
 
 Description of any changes to the project plan (progress)
 
+Short Summary of the Contribution by each member
