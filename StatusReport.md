@@ -17,14 +17,14 @@ We worked in a joint Google Colaboratory notebook throughout the project so that
 
 This was our previous timeline as established in our project plan: 
 
-Week 8: Confirm the research question, create a project folder and documentation log (All members)
-Week 9: Download the datasets, review attributes, coordinate systems, and file sizes, and note the different data years (Vaanathi)
-Week 10: Fix invalid geometries, decide how to filter U.S. territories (e.g., Alaska) (Lana)
-Week 11: Perform intersection between ZCTA boundaries and county polygons to categorize ZCTAs into single county or multi-county (Joanne)
-Week 12: Conduct summary statistics and fit a simple regression model and break down results by state and region (Bharathi)
-Week 13: Build maps of road density and charts comparing single vs. multi-county ZCTAs (Vaanathi & Lana)
-Week 14: Draft the report covering the methods, results, limitations, and possible extensions (Joanne & Bharathi)
-Week 15: Proofread, make sure results are reproducible, and submit final report (All Members)
+- Week 8: Confirm the research question, create a project folder and documentation log (All members)
+- Week 9: Download the datasets, review attributes, coordinate systems, and file sizes, and note the different data years (Vaanathi)
+- Week 10: Fix invalid geometries, decide how to filter U.S. territories (e.g., Alaska) (Lana)
+- Week 11: Perform intersection between ZCTA boundaries and county polygons to categorize ZCTAs into single county or multi-county (Joanne)
+- Week 12: Conduct summary statistics and fit a simple regression model and break down results by state and region (Bharathi)
+- Week 13: Build maps of road density and charts comparing single vs. multi-county ZCTAs (Vaanathi & Lana)
+- Week 14: Draft the report covering the methods, results, limitations, and possible extensions (Joanne & Bharathi)
+- Week 15: Proofread, make sure results are reproducible, and submit final report (All Members)
 
 We have completed all of our planned tasks from Week 8 - Week 12, so we are on track to finish our project as planned. Our timeline does not require any updates. We also overcame some of the constraints listed in our project plan by standardizing the year across all of our chosen datasets to 2024. 
 
