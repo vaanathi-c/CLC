@@ -32,7 +32,8 @@ Contribution by member:
 
 Vaanathi: I downloaded all three datasets to inspect them, then I looked at all the attributes in each dataset (ZCTA5CE20, GEOID20, LINEARID, FULLNAME, STATEFP, COUNTYFP, etc.). After that, I checked the coordinate reference system for each file and made sure they matched, since we need consistent projections before doing any spatial work. I also recorded the file sizes and noted the data years, which became important when our original datasets were removed from data.gov. Once that happened, I helped confirm that the 2024 TIGER/Line versions had the same attributes and structure as the originals, so we could standardize all three datasets to one year and keep going. I also drafted the initial structure of the project plan, and the rest of the team made changes as they saw fit.
 
-Lana: 
+Lana: I handled data cleaning for our three datasets. I ran validity checks on the geometries in each file and repaired the invalid ones so they wouldn’t cause errors in later spatial operations. I also worked out how to handle U.S. territories and non-contiguous areas like Alaska, since they can distort density calculations and make maps hard to read. I documented the filtering decisions and the reasoning behind them so the team can reproduce the same steps and explain our choices in the final report. 
+
 Bharathi: 
 Joanne: 
 
